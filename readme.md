@@ -2,6 +2,8 @@
 
 ## Title H2
 
+This string is H2-ed?
+
 Some line with on enter at end.
 Someline with breakline..
 Continue line.
@@ -24,7 +26,7 @@ Continue line.
 - Non numeric two
 - Non numeric three
 
-[google](google.ru "google site"]
+[google](https://www.google.ru "google site"]
 
 ```java
 public static void main (String[] args
